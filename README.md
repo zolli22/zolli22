@@ -1,6 +1,6 @@
 Hi, I’m Ingrid!
-- I’m a educational technology consultant and biology undergrad at Reed College
-- I’m interested in data visualization, tree health, data ethics, ecology, and mapping
+- I’m an independent researcher, with a BA in Biology and a Minor in French from Reed College
+- I’m interested in data visualization, data ethics, ecology, spatial data, and UX/UI research
 - I can be contacted on twitter @ingrid_zoll
 
 
